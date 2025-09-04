@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I am Salma Abdelhady</h1>
+<p align="center"><strong>Data Engineering Trainee @ DEPI · CS Student · Competitive Programmer</strong></p>
 
-<!--
-**salma-abdelhady/salma-abdelhady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+Computer Science student with a strong interest in data engineering and competitive programming. Currently part of the DEPI Scholarship Program, gaining hands-on experience with SQL, NoSQL, and data tools in  real-world projects. Skilled in Python, C++, SQL, and web scraping, with experience using libraries such as NumPy and Pandas. Solid foundation in data structures, algorithms, databases, and object-oriented programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Python Libraries & Tools**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4E9BCD?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Concepts**  
+`Data Structures` · `Algorithms` · `OOP` · `Web Scraping` · `Generative AI`
+
+
+---
+
+## Featured Projects
+- [Supermarket Database](https://github.com/salma-abdelhady/Supermarket-Database) – Designed and normalized a relational schema in MySQL for customers, employees, products, and sales.  
+- [Weather Data Structures](https://github.com/salma-abdelhady/Weather-DSA) – Implemented linked lists, stacks, queues, and sorting/search algorithms on weather CSV data.  
+- [Library Management System](https://github.com/salma-abdelhady/Library-Management-System) – Python OOP system for managing books, users, borrowing, and returns.  
+- [Student Performance Tracker](https://github.com/salma-abdelhady/Student-Performance-Tracker) – OOP-based system for GPA calculation, grade tracking, and reports.  
+
+---
+
+## Let's Connect
+<p>
+  <a href="https://www.linkedin.com/in/salma-abdelhady-">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
