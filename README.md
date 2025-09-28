@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Salma Abdelhady</h1>
-<p align="center"><strong>Aspiring Data Engineering · Competitive Programmer</strong></p>
+<p align="center"><strong>Aspiring Data Engineer · Competitive Programmer</strong></p>
 
 ---
 
