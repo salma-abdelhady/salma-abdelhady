@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Salma Abdelhady</h1>
-<p align="center"><strong>Aspiring Data Engineer · Competitive Programmer</strong></p>
+<p align="center"><strong>Data Engineer · Competitive Programmer</strong></p>
 
 ---
 
@@ -44,9 +44,6 @@ Computer Science student with a strong interest in data engineering and competit
 ## Featured Projects
 - [Stock Market Data Tracker](https://github.com/salma-abdelhady/stock-market-data-tracker) – Python tool to fetch historical stock data via API, calculate key metrics (daily returns, moving averages, volatility), and visualize trends using Pandas, NumPy, and Matplotlib. Includes input validation for symbols and dates.
 - [Supermarket Database](https://github.com/salma-abdelhady/Supermarket-Database) – Designed and normalized a relational schema in MySQL for customers, employees, products, and sales.  
-- [Weather Data Structures](https://github.com/salma-abdelhady/Weather-DSA) – Implemented linked lists, stacks, queues, and sorting/search algorithms on weather CSV data.  
-- [Library Management System](https://github.com/salma-abdelhady/Library-Management-System) – Python OOP system for managing books, users, borrowing, and returns.  
-- [Student Performance Tracker](https://github.com/salma-abdelhady/Student-Performance-Tracker) – OOP-based system for GPA calculation, grade tracking, and reports.  
 
 ---
 
