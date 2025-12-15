@@ -50,7 +50,7 @@ Data Engineer and DEPI Scholarship Program graduate with hands-on experience in 
 ### Problem Solving
 - [Problem-Solving Python](https://github.com/salma-abdelhady/problem-solving-python)
 - [Problem-Solving C++](https://github.com/salma-abdelhady/problem-solving-cpp) 
-- [Problem-Solving SQL](https://github.com/salma-abdelhady/problem-solving-sql)
+- [Problem-Solving SQL](https://github.com/salma-abdelhady/SQL)
 
 ## Let's Connect
 <p>
