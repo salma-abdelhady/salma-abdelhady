@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-Computer Science student with a strong interest in data engineering and competitive programming. Currently part of the DEPI Scholarship Program, gaining hands-on experience with SQL, NoSQL, and data tools in  real-world projects. Skilled in Python, C++, SQL, and web scraping, with experience using libraries such as NumPy and Pandas. Solid foundation in data structures, algorithms, databases, and object-oriented programming.
+Data Engineer and DEPI Scholarship Program graduate with hands-on experience in SQL, NoSQL, Python, and web scraping. Skilled in building data pipelines, cleaning and analyzing data, and designing efficient solutions. Strong foundation in data structures, algorithms, databases, and object-oriented programming, with a focus on practical, real-world applications.
 
 ---
 
@@ -42,6 +42,7 @@ Computer Science student with a strong interest in data engineering and competit
 ---
 
 ## Featured Projects
+- [Data Engineering Jobs Scraper](https://github.com/salma-abdelhady/data-engineering-jobs-scraper) – Scrapes Data Engineering job listings from the [UK Find a Job](https://findajob.dwp.gov.uk) site, extracting titles, companies, locations, salaries, and experience levels. Data is cleaned with `pandas`/`numpy` and stored in MySQL with CSV export.
 - [Stock Market Data Tracker](https://github.com/salma-abdelhady/stock-market-data-tracker) – Python tool to fetch historical stock data via API, calculate key metrics (daily returns, moving averages, volatility), and visualize trends using Pandas, NumPy, and Matplotlib. Includes input validation for symbols and dates.
 - [Supermarket Database](https://github.com/salma-abdelhady/Supermarket-Database) – Designed and normalized a relational schema in MySQL for customers, employees, products, and sales.  
 
