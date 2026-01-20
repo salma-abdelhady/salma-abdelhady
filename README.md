@@ -1,12 +1,17 @@
-<h1 align="center">Hi, I am Salma Abdelhady</h1>
-<p align="center"><strong>Data Engineer · Competitive Programmer</strong></p>
+<h1 align="center">Hi, I'm Salma Abdelhady </h1>
 
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer;Competitive+Programmer&center=true&width=500&height=45&color=4682B4&vCenter=true&size=22"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-## About Me
-Data Engineer and DEPI Scholarship Program graduate with hands-on experience in SQL, NoSQL, Python, and web scraping. Skilled in building data pipelines, cleaning and analyzing data, and designing efficient solutions. Strong foundation in data structures, algorithms, databases, and object-oriented programming, with a focus on practical, real-world applications.
-
----
+<p>
+I am a Computer Science student focusing on Data Engineering and data-driven systems.
+</p>
 
 ## Tech Stack
 
@@ -35,7 +40,7 @@ Data Engineer and DEPI Scholarship Program graduate with hands-on experience in 
 
 
 **Concepts**  
-`Data Structures` · `Algorithms` · `OOP` · `Web Scraping` ·
+`Data Structures` · `Algorithms` · `OOP` · `Web Scraping`
 
 
 ---
