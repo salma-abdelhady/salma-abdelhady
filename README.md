@@ -52,11 +52,6 @@ I am a Computer Science student focusing on Data Engineering and data-driven sys
 
 ---
 
-### Problem Solving
-- [Problem-Solving Python](https://github.com/salma-abdelhady/problem-solving-python)
-- [Problem-Solving C++](https://github.com/salma-abdelhady/problem-solving-cpp) 
-- [Problem-Solving SQL](https://github.com/salma-abdelhady/SQL)
-
 ## Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/salma-abdelhady-">
