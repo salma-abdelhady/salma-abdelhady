@@ -43,14 +43,12 @@ I am a Computer Science student focusing on Data Engineering and data-driven sys
 `Data Structures` · `Algorithms` · `OOP` · `Web Scraping`
 
 
----
 
 ## Featured Projects
 - [Data Engineering Jobs Scraper](https://github.com/salma-abdelhady/data-engineering-jobs-scraper) – Scrapes Data Engineering job listings from the [UK Find a Job](https://findajob.dwp.gov.uk) site, extracting titles, companies, locations, salaries, and experience levels. Data is cleaned with `pandas`/`numpy` and stored in MySQL with CSV export.
 - [Stock Market Data Tracker](https://github.com/salma-abdelhady/stock-market-data-tracker) – Python tool to fetch historical stock data via API, calculate key metrics (daily returns, moving averages, volatility), and visualize trends using Pandas, NumPy, and Matplotlib. Includes input validation for symbols and dates.
 - [Supermarket Database](https://github.com/salma-abdelhady/Supermarket-Database) – Designed and normalized a relational schema in MySQL for customers, employees, products, and sales.  
 
----
 
 ## Let's Connect
 <p>
