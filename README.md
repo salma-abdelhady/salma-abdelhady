@@ -1,58 +1,21 @@
-<h1 align="center">Hi, I'm Salma Abdelhady </h1>
+I'm **Salma Abdelhady**, a Computer Science student interested in **Software Engineering**, with a particular interest in **data, databases, and backend systems**.
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer;Competitive+Programmer&center=true&width=500&height=45&color=4682B4&vCenter=true&size=22"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+I enjoy building software and understanding what happens behind the scenes — from designing databases and writing efficient SQL queries to building data pipelines and working with APIs.
 
-<p>
-I am a Computer Science student focusing on Data Engineering and data-driven systems.
-</p>
+I'm also passionate about **competitive programming**, which has become a big part of how I approach problem solving. I'm currently a **mentor at ICPC Zagazig Community**, helping others improve their problem-solving skills.
 
-## Tech Stack
+I was also part of the Data Science Track at IEEE Zagazig Branch, where I contributed to a cross-track project that received the Best Innovation Award.
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+I've worked on projects involving **Python, SQL, relational databases, ETL, APIs, web scraping, and data processing**.
 
-**Python Libraries**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4E9BCD?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+### Projects
 
-**Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF5964?style=for-the-badge&logo=dbt-labs&logoColor=white)
+**[Data Engineering Jobs Scraper](https://github.com/salma-abdelhady/data-engineering-jobs-scraper)**
+A Python-based application that collects and processes job listings from web sources.
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**[Stock Market Data Tracker](https://github.com/salma-abdelhady/stock-market-data-tracker)**
+A Python application for collecting and analyzing historical stock market data.
 
+### 📫 Let's Connect
 
-**Concepts**  
-`Data Structures` · `Algorithms` · `OOP` · `Web Scraping`
-
-
-
-## Featured Projects
-- [Data Engineering Jobs Scraper](https://github.com/salma-abdelhady/data-engineering-jobs-scraper) – Scrapes Data Engineering job listings from the [UK Find a Job](https://findajob.dwp.gov.uk) site, extracting titles, companies, locations, salaries, and experience levels. Data is cleaned with `pandas`/`numpy` and stored in MySQL with CSV export.
-- [Stock Market Data Tracker](https://github.com/salma-abdelhady/stock-market-data-tracker) – Python tool to fetch historical stock data via API, calculate key metrics (daily returns, moving averages, volatility), and visualize trends using Pandas, NumPy, and Matplotlib. Includes input validation for symbols and dates.
-- [Supermarket Database](https://github.com/salma-abdelhady/Supermarket-Database) – Designed and normalized a relational schema in MySQL for customers, employees, products, and sales.  
-
-
-## Let's Connect
-<p>
-  <a href="https://www.linkedin.com/in/salma-abdelhady-">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/salma-abdelhady-)
