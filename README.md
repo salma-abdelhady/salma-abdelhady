@@ -6,7 +6,7 @@ I'm also passionate about **competitive programming**, which has become a big pa
 
 I was also part of the Data Science Track at IEEE Zagazig Branch, where I contributed to a cross-track project that received the Best Innovation Award.
 
-I've worked on projects involving **Python, SQL, relational databases, ETL, APIs, web scraping, and data processing**.
+I've been developing my skills in Data Engineering through projects involving Python, SQL, relational databases, ETL, APIs, web scraping, and data processing.
 
 ### Projects
 
