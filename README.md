@@ -1,6 +1,6 @@
 I'm **Salma Abdelhady**, a Computer Science student interested in **Software Engineering**, with a particular interest in **data, databases, and backend systems**.
 
-I enjoy building software and understanding what happens behind the scenes — from designing databases and writing efficient SQL queries to building data pipelines and working with APIs.
+I enjoy building software and understanding what happens behind the scenes, from designing databases and writing efficient SQL queries to building data pipelines.
 
 I'm also passionate about **competitive programming**, which has become a big part of how I approach problem solving. I'm currently a **mentor at ICPC Zagazig Community**, helping others improve their problem-solving skills.
 
